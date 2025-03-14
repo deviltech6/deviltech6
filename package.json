@@ -1,12 +1,12 @@
 {
-"name": "Robin-web-pair",
+"name": "DEVIL-TECH-MD-web-pair",
     "version": "0.0.1",
-    "description": "A multi functional whatsapp bot Web paircode.",
+    "description": "A multi functional whatsapp bot Web paircode by ᴄʏʙᴇʀ ʟᴏᴋᴜ ᴀꜱʜᴜᴜ ᴏꜰᴄ.",
     "main": "index.js",
     "scripts": {
-      "start": "pm2 start index.js --deep-monitoring --attach --name Robin",
-      "stop": "pm2 stop robin",
-     "restart": "pm2 restart robin"
+      "start": "pm2 start index.js --deep-monitoring --attach --name DEVIL-TECH-MD",
+      "stop": "pm2 stop DEVIL-TECH-MD",
+     "restart": "pm2 restart DEVIL-TECH-MD"
     },
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.9",
