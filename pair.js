@@ -85,7 +85,7 @@ router.get("/", async (req, res) => {
             const mg = `*Do not share this code to anyone📍*`\n\n '*කාටවත් සීසන් අඩී ශෙයා කරන්න එපා*'\n\n\n ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʏʙᴇʀ ʟᴏᴋᴜ ᴀꜱʜᴜᴜ ᴏꜰᴄ;
             const dt = await RobinPairWeb.sendMessage(user_jid, {
               image: {
-                url: "https://raw.githubusercontent.com/Dark-Robin/Bot-Helper/refs/heads/main/autoimage/Bot%20robin%20WP.jpg",
+                url: "https://raw.githubusercontent.com/deviltech6/Img/refs/heads/main/IMG-20250313-WA0220.jpg",
               },
               caption: sid,
             });
